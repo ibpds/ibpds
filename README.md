@@ -8,9 +8,9 @@ ibpds/README.md
 
 ## 🌐 Sociais
 
->[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izabelapordeus/)
+>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irdeus/)
 >
->[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ibpordeus/)
+>[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ib.pordeus?igsh=MXI0MHh3N2Z0b3hsdA==)
 
 ## 🚀💻 Tecnologias
 
