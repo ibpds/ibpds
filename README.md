@@ -35,3 +35,5 @@ ibpds/README.md
 
 >![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibpds&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
