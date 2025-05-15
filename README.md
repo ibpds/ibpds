@@ -7,5 +7,6 @@ Olá! Sou Izabela Pordeus 👋
 Instagram ib.pordeus
 
 🚀💻 tecnologias
-> JavaScript Nodejs Python React HTML5 CSS3 Bootstrap TypeScript MongoDB MicrosoftSQLServer Figma AdobeIllustrator AdobePhotoshop GitHub Java
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-for-the-badge&logo=javascript&logoColor=black)
+Nodejs Python React HTML5 CSS3 Bootstrap TypeScript MongoDB MicrosoftSQLServer Figma AdobeIllustrator AdobePhotoshop GitHub Java
 
