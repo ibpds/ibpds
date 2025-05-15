@@ -2,14 +2,17 @@ ibpds/README.md
 Olá! Sou Izabela Pordeus 👋
 
 >🔭 Ensino médio técnico em TI - FIAP
+
 >📫 izabela.pordeus@gmail.com
 
 🌐 Sociais
 
 >[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-perfil-instagram/)
 
->🚀💻 ##Tecnologias
+>[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-perfil-instagram/)
+
+🚀💻 ##Tecnologias
+
 >
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
