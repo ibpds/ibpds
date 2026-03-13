@@ -1,7 +1,6 @@
 ibpds/README.md
 
 # Olá! Sou Izabela Pordeus 👋
-Sou uma Dev Junior Fullstack apaixonada por tecnlogia!
 
 >🔭 Ensino médio técnico em TI - FIAP School
 >
@@ -25,7 +24,6 @@ Sou uma Dev Junior Fullstack apaixonada por tecnlogia!
 >![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 >![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 >
->![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 >![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 >![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2900?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 >
