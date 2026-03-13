@@ -2,7 +2,9 @@ ibpds/README.md
 
 # Olá! Sou Izabela Pordeus 👋
 
->🔭 Ensino médio técnico em TI - FIAP
+>🔭 Ensino médio técnico em TI - FIAP School
+>
+>📚 Graduanda em Engenharia de Software - FIAP
 >
 >📫 izabela.pordeus@gmail.com
 
