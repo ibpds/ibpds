@@ -1,6 +1,7 @@
 ibpds/README.md
 
 # Olá! Sou Izabela Pordeus 👋
+> Sou uma Dev Junior Fullstack apaixonada por tecnlogia!
 
 >🔭 Ensino médio técnico em TI - FIAP School
 >
